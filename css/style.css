@@ -1,0 +1,21 @@
+.content h1{
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+}
+.content .press{
+    font-size: 35px;
+    margin-top: 50px;
+}
+.content button{
+    background-color: blue;
+    width: 250px;
+    height: 80px;
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.content button:hover{
+    background-color: green;
+    color: white;
+}
